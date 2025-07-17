@@ -1,0 +1,20 @@
+.about{
+    width:100%;
+    height:100vh;
+    background-image: url("https://image.slidesdocs.com/responsive-images/slides/2-pink-simple-general-work-summary-powerpoint-background_9dcd7f4457__960_540.jpg");
+     background-size: 100% 100%;
+    background-position: center;
+}
+.about p{
+    text-align:justify;
+    text-justify:inter-word;
+    color:black;
+    font-weight: bold;
+}
+.about h1{
+    border-bottom: 1px solid red;
+    padding:5px;
+    color:black;
+    font-weight: bold;
+ 
+}
